@@ -1,0 +1,26 @@
+_repo: Indische-Huwelijken_65854
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foore, Annie
+    aliases:
+    - Junius, Francisca Johanna Jacoba Alberta
+    - IJzerman-Junius, Francisca Johanna Jacoba Alberta
+    birthdate: 1847
+    deathdate: 1890
+    gutenberg_agent_id: '53516'
+    url: http://www.gutenberg.org/2009/agents/53516
+    wikipedia: https://nl.wikipedia.org/wiki/Annie_Foore
+description: ''
+gutenberg_issued: '2021-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65854'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Indische Huwelijken
+url: http://www.gutenberg.org/ebooks/65854
